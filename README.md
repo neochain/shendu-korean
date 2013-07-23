@@ -1,1 +1,0 @@
-ShenDu OS v4.1.2 - Korean 
