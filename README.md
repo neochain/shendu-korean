@@ -1,4 +1,4 @@
-ShenDu OS v4.1.2 - Korean
+ShenDu OS v4.1.2 - Korean 
 =============
 
 ShenDu OS (v4.1.2) KoreanTranslate
