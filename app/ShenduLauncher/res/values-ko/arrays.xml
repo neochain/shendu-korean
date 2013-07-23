@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_entries">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+        <item>Cube In</item>
+        <item>Cube Out</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="preferences_interface_homescreen_scrolling_transition_effect_values">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_entries">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>Zoom In</item>
+        <item>Zoom Out</item>
+        <item>Cube In</item>
+        <item>Cube Out</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="preferences_interface_drawer_scrolling_transition_effect_values">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="preferences_interface_homescreen_general_screen_folder_style_entries">
+        <item>Ring</item>
+        <item>Square</item>
+    </string-array>
+    <string-array name="preferences_interface_homescreen_general_screen_folder_style_values">
+        <item>Ring</item>
+        <item>Square</item>
+    </string-array>
+    <string-array name="effects">
+        <item>Standard</item>
+        <item>Tablet</item>
+        <item>ZoomIn</item>
+        <item>ZoomOut</item>
+        <item>CubeIn</item>
+        <item>CubeOut</item>
+        <item>Stack</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_01</item>
+        <item>wallpaper_02</item>
+        <item>wallpaper_03</item>
+        <item>wallpaper_04</item>
+        <item>wallpaper_05</item>
+        <item>wallpaper_06</item>
+    </string-array>
+</resources>
