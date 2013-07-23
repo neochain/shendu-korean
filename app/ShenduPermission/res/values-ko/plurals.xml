@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="pref_logs_deleted">
+        <item quantity="other">%1$d개의 로그가 삭제됨</item>
+        <item quantity="one">로그 하나가 삭제됨</item>
+    </plurals>
+    <plurals name="pin_incorrect_try">
+        <item quantity="other">틀림. %d회의 시도 남음</item>
+        <item quantity="one">마지막 기회</item>
+    </plurals>
+    <plurals name="malicious_apps_message1">
+        <item quantity="other">다음 패키지는 악성 애플리케이션으로 판명되었습니다.</item>
+        <item quantity="one">다음 패키지는 악성 애플리케이션으로 판명되었습니다.</item>
+    </plurals>
+</resources>
