@@ -1981,7 +1981,7 @@ Set a custom location or enable network location"</string>
     <string name="toggleWifiAp">Portable Wi-Fi hotspot</string>
     <string name="toggleBluetooth">Bluetooth</string>
     <string name="toggleGPS">GPS</string>
-    <string name="toggleData">데이터</string>
+    <string name="toggleData">모바일 데이터</string>
     <string name="toggleSync">Data Sync</string>
     <string name="toggle2g3g">2G/3G</string>
     <string name="toggleSound">Ring Mode</string>
@@ -2019,23 +2019,23 @@ Set a custom location or enable network location"</string>
     <string name="performance_settings_warning">"이 설정들은 실험적인 것들이며 변경 시 불안정, 충돌, 데이터 손실 또는 하드웨어 고장이 발생할 수 있습니다.
 
 이 설정들을 변경하였을 경우에는 버그 리포트를 사용하지 말아주시기 바랍니다.."</string>
-    <string name="processor_title">Processor</string>
-    <string name="processor_summary">Change CPU governor and clock speed</string>
-    <string name="cpu_cur_freq_title">Current CPU frequency</string>
-    <string name="cpu_governors_title">CPU governor</string>
+    <string name="processor_title">프로세서</string>
+    <string name="processor_summary">CPU의 가버너와 클럭을 바꿉니다</string>
+    <string name="cpu_cur_freq_title">현재 CPU 크럭</string>
+    <string name="cpu_governors_title">CPU 가버너</string>
     <string name="cpu_governors_summary">%S</string>
-    <string name="cpu_min_freq_title">Minimum CPU frequency</string>
+    <string name="cpu_min_freq_title">최저 CPU 클럭</string>
     <string name="cpu_min_freq_summary">%s</string>
-    <string name="cpu_max_freq_title">Maximum CPU frequency</string>
+    <string name="cpu_max_freq_title">최고 CPU 클럭</string>
     <string name="cpu_max_freq_summary">%s</string>
-    <string name="cpu_set_on_boot">Set on boot</string>
-    <string name="cpu_set_on_boot_summary">Restore the processor settings on boot</string>
-    <string name="io_scheds_title">I/O scheduler</string>
-    <string name="io_scheds_summary">Change I/O scheduler</string>
-    <string name="io_sched_title">I/O scheduler</string>
+    <string name="cpu_set_on_boot">부팅시 적용</string>
+    <string name="cpu_set_on_boot_summary">프로세서 설정을 부팅시마다 적용합니다</string>
+    <string name="io_scheds_title">I/O 스케쥴러</string>
+    <string name="io_scheds_summary">I/O 스케쥴러를 바꿉니다</string>
+    <string name="io_sched_title">I/O 스케쥴러</string>
     <string name="io_sched_summary">%S</string>
-    <string name="io_sched_set_on_boot">Set on boot</string>
-    <string name="io_sched_set_on_boot_summary">Restore the I/O scheduler settings on boot</string>
+    <string name="io_sched_set_on_boot">부팅시 적용</string>
+    <string name="io_sched_set_on_boot_summary">I/O 스케쥴러 설정을 부팅시마다 적용합니다</string>
     <string name="memory_management_title">Memory management</string>
     <string name="memory_management_summary">Customize the usage of memory to alter system performance</string>
     <string name="pref_zram_title">zRam</string>

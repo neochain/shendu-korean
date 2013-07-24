@@ -252,12 +252,12 @@
     <string name="all_select">모두 선택</string>
     <string name="invert_select">반대로</string>
     <string name="save">저장</string>
-    <string name="save_excuting">doing....</string>
+    <string name="save_excuting">저장중....</string>
     <string name="communication">communication</string>
     <string name="perm">권한</string>
-    <string name="send_notify">notify</string>
+    <string name="send_notify">알림</string>
     <string name="no_modify">Without modification</string>
-    <string name="refuseperm">denyed</string>
+    <string name="refuseperm">거부됨</string>
     <string name="sms">sms</string>
     <string name="net_data">3G</string>
     <string name="auto_net">네트워크</string>
@@ -268,7 +268,7 @@
     <string name="imei_permnote">imei note</string>
     <string name="net_wifi">WIFI</string>
     <string name="perm_list_item_icon">애플리케이션</string>
-    <string name="perm_list_item_name">application name</string>
+    <string name="perm_list_item_name">애플리케이션 이름</string>
     <string name="perm_note_format">have %d</string>
-    <string name="load_autorun">loading...</string>
+    <string name="load_autorun">로딩중...</string>
 </resources>
