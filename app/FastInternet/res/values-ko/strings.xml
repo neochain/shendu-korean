@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">빠른웹</string>
+    <string name="logo">- Google</string>
+    <string name="canel">취소</string>
+    <string name="sure">확인</string>
+    <string name="today">오늘</string>
+    <string name="yesterday">어제</string>
+    <string name="earlier">更早</string>
+    <string name="error">오류</string>
+    <string name="msg_item_empty">无数据</string>
+    <string name="btn_search">검색</string>
+    <string name="hint_search">URL이나 단어를 입력하세요</string>
+    <string name="tab_name_app">애플리케이션</string>
+    <string name="tab_name_bookmark">북마크</string>
+    <string name="tab_name_history">기록</string>
+    <string name="label_no_data">데이터 없음</string>
+    <string name="delete">삭제</string>
+    <string name="no_history">기록 없음</string>
+    <string name="empty_url">地址为空，无法打开该地址</string>
+    <string name="no_browser">실행할 브라우저가 없습니다</string>
+    <string name="last_history_10">最近10条记录</string>
+    <string name="can_not_lunch">无法启动该应用</string>
+    <string name="clean_search_history">清除记录</string>
+    <string name="clean_all_history">모두</string>
+    <string name="delete_item">항목을 삭제하시겠습니까？</string>
+    <string name="msg_delete_item_port">개의 </string>
+    <string name="menu_about">북마크 추가</string>
+    <string name="menu_help">帮 助</string>
+    <string name="menu_mulit_del">Mulit Choose Delete</string>
+    <string name="menu_all_del">全部删除</string>
+    <string name="msg_choose_title">선택</string>
+    <string name="msg_not_support">지원되지 않음</string>
+    <string name="menu_about_msg">请在浏览器添加书签</string>
+    <string name="activity_help_text1">快捷上网是深度OS提供的一键上网服务，让您更方便快捷地畅游移动互联网！</string>
+    <string name="activity_help_text2">点击书签上的网址可以一键到达相应的网站，无需再次输入网址</string>
+    <string name="activity_help_text3">在默认浏览器中添加的书签，软件会自动进行同步。</string>
+    <string name="activity_help_text4">输入框可以快速输入网址或百度搜索的关键字，智能判断您输入的文字。</string>
+</resources>
