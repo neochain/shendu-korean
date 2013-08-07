@@ -2254,7 +2254,7 @@ Do you really want to enable this function?"</string>
     <string name="app_limit_enabled_off">Off</string>
     <string name="app_limit_text">Press $HOME Key to exit</string>
     <string name="app_limit_text_keyword">$HOME</string>
-    <string name="limit_list">Application Control</string>
+    <string name="limit_list">애플리케이션 제어</string>
     <string name="set_limit_password">Set unban function</string>
     <string name="launcing">Launching</string>
     <string name="volume_setting_call">Call Volume</string>
